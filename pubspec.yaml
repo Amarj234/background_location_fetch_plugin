@@ -1,5 +1,5 @@
 name: background_location_fetch
-description: "A new Flutter plugin project."
+description: A Flutter plugin for tracking device location in the background on Android and iOS with real-time updates.
 version: 0.0.1
 homepage: https://amarj234.github.io/
 # The following line is the package name used by pub.dev.
