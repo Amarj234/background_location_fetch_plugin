@@ -67,7 +67,7 @@ post_install do |installer|
     end
     end
     end
-
+```
 Location updates
 
 Background fetch
