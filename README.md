@@ -190,6 +190,23 @@ Android 13+ requires notification permission if your app shows foreground servic
 
 If using Flutter 3+, verify your Info.plist and Android manifest are correctly set up.
 
+## Author
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQEaN03Kf1dbiA/profile-displayphoto-shrink_800_800/B56ZdYflF_H8Ak-/0/1749536366413?e=1758153600&v=beta&t=o1FKZaolZuN45BtL5HinXwnSNGmwLpjwLqaybASOgM8" alt="Amarjeet Maurya" width="150" height="150" style="border-radius:50%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Amarj234">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/amarj234/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+</p>
+
+
+
 License
 
 This single-file README includes:
