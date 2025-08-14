@@ -1,12 +1,11 @@
 import 'package:flutter/services.dart';
 import 'package:permission_handler/permission_handler.dart';
 
-import 'background_location_fetch_platform_interface.dart';
 import 'location_data_model.dart';
 
 typedef LocationUpdateCallback = void Function(LocationDataModel locationData);
 
-class BackgroundLocationFetch extends BackgroundLocationFetchPlatform {
+class BackgroundLocationFetch {
   /// Channel that receives location updates from native side
   static const MethodChannel _locationChannel = MethodChannel(
     'location_updates',
